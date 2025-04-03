@@ -10,3 +10,9 @@ It contains two sections:
 2) experiments with CausaLM.
 
 For CausaLM, we partly use code from the following repo: https://github.com/amirfeder/CausaLM
+
+In this repo, we apply approaches described in the following papers:
+
+https://arxiv.org/abs/2112.01406
+
+https://arxiv.org/abs/2005.13407
